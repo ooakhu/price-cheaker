@@ -45,4 +45,4 @@ def price_alert():
 
 while True:
     price_alert()
-    time.sleep(43200)  # so this checks the price of the item twice a day
+    time.sleep(43200)  #this checks the price of the item twice a day
